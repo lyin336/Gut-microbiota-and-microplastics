@@ -7,7 +7,7 @@ This study utilizes:
 - Classification models to identify the responses of beneficial, harmful, and degrading bacteria (BHD bacteria) under microplastic exposure.
 
 ## How to Use These Files:
-1. Alpha Diversity**:  
+1. Alpha Diversity:  
    - File: `alpha.csv`  
    - Script: `regression_alpha.py`  
 
