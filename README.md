@@ -9,11 +9,11 @@ This study utilizes:
 ## How to Use These Files:
 1. Alpha Diversity:  
    - File: `alpha.csv`  
-   - Script: `regression_alpha.py`  
+   - Script: `Regression_alpha.py`  
 
 2. Functional Pathways:  
    - File: `Functional pathways.csv`  
-   - Script: `regression_functional pathways.py`  
+   - Script: `Regression_functional pathways.py`  
 
 3. BHD bacteria:
    - Files: `beneficial bacteria.csv`, `harmful bacteria.csv`, `degrading bacteria.csv`  
